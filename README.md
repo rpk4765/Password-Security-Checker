@@ -34,4 +34,4 @@ This project was created for learning Python programming and understanding basic
 
 ## 👨‍💻 Author
 
-blue_rpk
+Blue_rpk
