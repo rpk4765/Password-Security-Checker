@@ -34,4 +34,6 @@ This project was created for learning Python programming and understanding basic
 
 ## 👨‍💻 Author
 
+GitHub: https://github.com/repk4765
+
 Blue_rpk
